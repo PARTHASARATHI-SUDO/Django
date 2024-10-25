@@ -1,0 +1,6 @@
+pipe type,pressure(psi),internal corrosion,bacterial activity,pipeline mounted system,coating,fault type
+seamless,600,yes,yes,permanent,internal,excavation damage
+erw,700,no,no,portable,external,pipe or weld material failure
+lsaw,800,,,insulated,no coating,equipment failure
+,900,,,trailer mounted ,,
+,1000,,,,,

@@ -1,0 +1,4 @@
+Python is easy to learn.
+I want to become python developer
+Python with django framework have good scope.
+It is difficult in starting stage.

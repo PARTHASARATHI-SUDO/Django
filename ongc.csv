@@ -1,0 +1,21 @@
+pipe type,pressure(psi),internal corrosion,bacterial activity,pipeline mounted system,coating to be done,fault type,maintenance time(days)
+seamless,600,yes,yes,permanent,internal,excavation damage,1.0
+lsaw,800,no,no,portable,external,pipe or weld material failure,1.5
+seamless,1000,no,no,insulated,internal,equipment failure,2.0
+lsaw,600,yes,yes,trailer mounted,no coating,equipment failure,1.0
+seamless,800,yes,yes,insulated,external,excavation damage,1.5
+seamless,1000,no,no,portable,internal,equipment failure,2.0
+lsaw,800,no,no,permanent,no coating,pipe or weld material failure,1.5
+seamless,600,no,yes,insulated,no coating,excavation damage,2.0
+erw,700,no,yes,portable,external,equipment failure,1.0
+seamless,800,no,no,insulated,no coating,equipment failure,1.5
+lsaw,700,no,no,trailer mounted,external,excavation damage,1.0
+erw,800,no,yes,insulated,internal,pipe or weld material failure,1.5
+seamless,700,yes,yes,permanent,no coating,equipment failure,2.0
+lsaw,1000,no,yes,portable,external,pipe or weld material failure,2.0
+lsaw,800,yes,yes,trailer mounted,no coating,equipment failure,1.5
+seamless,1000,no,no,portable,internal,excavation damage,2.0
+seamless,1000,yes,yes,insulated,no coating,pipe or weld material failure,2.0
+erw,900,no,no,permanent,internal,excavation damage,2.0
+seamless,600,no,no,trailer mounted,external,equipment failure,1.0
+erw,600,no,yes,insulated,no coating,pipe or weld material failure,1.0
